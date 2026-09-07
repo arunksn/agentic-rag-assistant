@@ -1,0 +1,9 @@
+Agentic RAG Assistant
+
+The system combines retrieval augmented generation with an agentic workflow.
+
+The assistant retrieves relevant documents before generating an answer. A planner determines which retrieval strategy should be used.
+
+Retrieved evidence is passed to a verifier before the final answer is synthesized.
+
+The system is designed to provide grounded responses with source attribution.
